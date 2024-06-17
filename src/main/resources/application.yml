@@ -1,0 +1,6 @@
+paypal:
+  client-id: client-id
+  client-secret: client-secret
+  mode: sandbox
+  success-url: https://localhost:8080/paypal-payment/sucess
+  cancel-url: https://localhost:8080/paypal-payment/cancel
